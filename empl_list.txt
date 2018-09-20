@@ -1,0 +1,33 @@
+#PrimeSilicon Technology (BD) Ltd.
+#Employee List
+
+Admin
+1. Redwan
+2. Farhanah
+3. Fattah
+
+TSC
+1. Prosanto
+2. Salman
+3. Afsana
+
+EPC
+1. Kulsum
+2. Shafkat
+3. Sharmin
+
+Engineer
+1. Adnan
+2. Shemul
+3. Shahadat
+4. Didarul
+5. Nibir
+6. Shady
+8. Ali
+9. Mahmud
+10. Ashik
+11. Nasim
+
+Office Assistant
+1. Alamgir
+2. Sarowar
