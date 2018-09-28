@@ -1,3 +1,4 @@
+#######
 #Written By: Md. Salman Farshi
 #Date: September 14, 2018 
 #File reading script
@@ -7,5 +8,5 @@ while {![eof $fi]} {
    if {[eof $fi] } {puts "File Ended"; break}
 }
 
-
+### Afsana
 ###
