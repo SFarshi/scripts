@@ -1,0 +1,3 @@
+Date				|	Topic
+---------------------------------------------------------------------------------
+September 28, 2018		| Stagging, remotes, cloning and branching	
